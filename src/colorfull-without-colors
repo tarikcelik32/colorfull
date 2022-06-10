@@ -1,0 +1,21 @@
+#!/bin/bash
+
+#Lets add some attributes to know what exactly people run this code using
+
+OS="$(uname -o)" #For operating system
+CA="$(uname -m)" #For Cpu architecture like ARM, X86, X86-64 etc
+Kernel="$(uname -s)" #For kernel
+UPTIME="$(uptime -p)"
+USER="$(whoami)"
+de="$(hostname)" #short for 'device name'
+# SHELL is literally $SHELL so we dont need re write it 
+
+echo "Operating system: $OS"
+echo "Kernel: $Kernel"
+echo "Processor architecture: $CA"
+echo "Shell: $SHELL"
+echo "Uptime: $UPTIME"
+echo "Username: $USER"
+echo  "Device name: $de"
+free -t | awk 'NR == 2 {print "Current memory usage is : "$3/$2*100}'
+top -b -n1 | grep ^%Cpu | awk '{print("Current CPU usage is : "), 100-$8}'
