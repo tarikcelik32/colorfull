@@ -3,7 +3,7 @@
 - **Show Operating system you use**
 - **Shell you use**
 - **Kernel you use**
-- **Your uptime (Time that your device last closed)**
+- **Your uptime (Time that your device last opened)**
 - **Your CPU architecture**
 - **Name of your device**
 - **Name of current user**
