@@ -21,6 +21,8 @@
 >* $ **sudo chmod +x install**
 >* $ **sudo ./install**
 ### if you dont have root permission just put to home folder and use from here
+>* $ **git clone https://github.com/tarikcelik32/colorfull.git**
+>* $ **cd colorfull**
 >* cd colorfull 
 >* cp colorfull (or colorfull-without-colors) ~
 ****
