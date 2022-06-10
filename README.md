@@ -17,7 +17,7 @@
 ****
 ## **Installing that program**
 >* $ **git clone 'link here'**
->* $ **cd colerfull**
+>* $ **cd colorfull**
 >* $ **sudo chmod +x install**
 >* $ **sudo ./install**
 ****
