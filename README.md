@@ -24,14 +24,14 @@
 
 # **Story of name*
 **Actually this name dont have any meaning, i called it colorfull because it was colorfull.**
- **Then why its colorfull?**
->**Because i think it would be cool :)**
+**Then why its colorfull?**
+**Because i think it would be cool :)**
 
 # **Colorfull without colors**
-## **Well i dont have much to say for this.**
-## **Not everyone has to like colors.**
-## **But dont worry i have *'colorfull-without-colors'* or just colorless :)**
+**Well i dont have much to say for this.**
+**Not everyone has to like colors.**
+**But dont worry i have *'colorfull-without-colors'* or just colorless :)**
 
 # Important note:
-## ***I did not take any source code from any other software, all of it written by me.***
-## ***And relased under GPL 3.0 license (GNU GENERAL PUBLIC LICENSE 3.0)***
+***I did not take any source code from any other software, all of it written by me.***
+***And relased under GPL 3.0 license (GNU GENERAL PUBLIC LICENSE 3.0)***
