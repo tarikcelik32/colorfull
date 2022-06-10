@@ -26,7 +26,7 @@
 >* **cd colorfull**
 >* **cd src**
 >* **chmod +x colorfull (or colorfull-without-colors)**
->>* **cp colorfull (or colorfull-without-colors) ~**
+>* **cp colorfull (or colorfull-without-colors) ~**
 ****
 ## **Photos**
 ![alt text](https://github.com/tarikcelik32/colorfull/blob/main/screen-shot1.png)
