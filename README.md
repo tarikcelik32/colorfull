@@ -22,7 +22,7 @@
 >* $ **sudo ./install**
 ****
 
-# **Story of name*
+# **Story of name**
 **Actually this name dont have any meaning, i called it colorfull because it was colorfull.**
 **Then why its colorfull?**
 **Because i think it would be cool :)**
