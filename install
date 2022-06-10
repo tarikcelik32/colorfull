@@ -1,0 +1,19 @@
+#!/bin/bash
+
+echo "do you want colorless or colorfull version"
+cd src
+echo "1. colorfull"
+echo "2. colorless"
+read choose
+
+if [ $choose = 1 ]; then
+    cp colorfull /bin/colorfull
+    chmod +x /bin/colorfull
+    echo "done"
+fi
+
+if [ $choose = 2 ]; then
+    cp colorfull-without-colors /bin/colorfull
+    chmod +x /bin/colorfull
+    echo "done"
+fi
