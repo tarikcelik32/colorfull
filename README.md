@@ -16,7 +16,7 @@
 * **(will add here more when later (maybe*)*
 ****
 ## **Installing that program**
->* $ **git clone 'link here'**
+>* $ **git clone https://github.com/tarikcelik32/colorfull.git**
 >* $ **cd colorfull**
 >* $ **sudo chmod +x install**
 >* $ **sudo ./install**
