@@ -7,8 +7,8 @@
 - **Your CPU architecture**
 - **Name of your device**
 - **Name of current user**
-- ***Displaying ram usage***
-- ***Displaying CPU usage***
+- ***Displaying ram usage (as percent)***
+- ***Displaying CPU usage(as percent)***
 ****
 ## **Future ideas for that program**
 * [x] **Displaying ram usage**
