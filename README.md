@@ -23,10 +23,10 @@
 ### if you dont have root permission just put to home folder and use from here
 >* $ **git clone https://github.com/tarikcelik32/colorfull.git**
 >* $ **cd colorfull**
->* **cd colorfull**
->* **cd src**
->* **chmod +x colorfull (or colorfull-without-colors)**
->* cp colorfull (or colorfull-without-colors) ~
+>* $ **cd colorfull**
+>* $ **cd src**
+>* $ **chmod +x colorfull (or colorfull-without-colors)**
+>* $ cp colorfull (or colorfull-without-colors) ~
 ****
 ## **Photos**
 ![alt text](https://github.com/tarikcelik32/colorfull/blob/main/screen-shot1.png)
