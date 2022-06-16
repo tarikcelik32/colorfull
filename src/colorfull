@@ -37,3 +37,4 @@ echo -e "${PURPLE}Device name:${BOLD} $de ${RED}"
 free -t | awk 'NR == 2 {print "Current memory usage is : "$3/$2*100}'
 echo -ne "${YELLOW}${BOLD}"
 top -b -n1 | grep ^%Cpu | awk '{print("Current CPU usage is : "), 100-$8}'
+echo -ne "${ENDCOLOR}"
